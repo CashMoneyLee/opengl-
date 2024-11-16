@@ -1,0 +1,103 @@
+﻿  JumpAndRun.cpp
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(81,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(81,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(81,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(94,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(94,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(94,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(94,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(107,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(108,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(108,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(108,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(108,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(131,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(131,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(131,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(131,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(144,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(145,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(145,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(145,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(145,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(169,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(169,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(169,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(169,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(180,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(180,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(181,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(181,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(181,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(181,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(190,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(191,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(191,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(191,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(191,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(203,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(203,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(204,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(204,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(204,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(204,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(213,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(214,24): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(214,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(214,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(214,15): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(226,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(234,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(236,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(242,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(251,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(251,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(258,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(258,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(264,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(264,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(264,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(270,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(270,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(270,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(279,15): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(283,20): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(284,15): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(286,21): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(287,16): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(288,16): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(289,16): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(290,16): warning C4244: '인수': 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(297,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(298,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(306,25): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(308,15): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(309,15): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(310,18): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(311,18): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(312,25): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(322,25): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(336,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(337,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(340,13): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(404,21): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(408,15): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(410,15): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(411,18): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(413,18): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(414,25): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(426,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(429,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(443,21): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(445,15): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(446,15): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(447,18): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(448,18): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(449,25): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(458,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(459,58): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(459,38): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hune0\source\repos\JumpAndRun\JumpAndRun\JumpAndRun.cpp(459,18): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  JumpAndRun.vcxproj -> C:\Users\hune0\source\repos\JumpAndRun\x64\Debug\JumpAndRun.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
